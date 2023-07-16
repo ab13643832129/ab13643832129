@@ -39,9 +39,8 @@
 [![Top Langs](https://github-readme-stats-ab13643832129.vercel.app/api/top-langs/?username=ab13643832129&layout=compact&theme=tokyonight)](https://github.com/ab13643832129/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=ab13643832129&theme=dark&layout=compact&langs_count=10" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ab13643832129&layout=compact&theme=tokyonight)
+
 
 
 
