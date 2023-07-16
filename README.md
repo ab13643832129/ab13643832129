@@ -32,4 +32,4 @@
 [![Top Langs](https://github-readme-stats-ab13643832129.vercel.app/api/top-langs/?username=ab13643832129&layout=compact&theme=tokyonight)](https://github.com/ab13643832129/github-readme-stats)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ab13643832129)](https://github.com/ab13643832129/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ab13643832129&theme=react-dark)](https://github.com/ab13643832129/github-readme-activity-graph)
