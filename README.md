@@ -42,6 +42,6 @@
 
 
 <!--          访问量数字          -->
-<pre align="center">
-![Visitor Count](https://profile-counter.glitch.me/ab13643832129/count.svg)
-</pre>
+
+访问量![Visitor Count](https://profile-counter.glitch.me/ab13643832129/count.svg)
+
