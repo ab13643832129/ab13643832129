@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 [![Harlok's wakatime stats](https://github-readme-stats-ab13643832129.vercel.app/api/wakatime?username=ab13643832129)](https://github.com/ab13643832129/github-readme-stats)
 
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ab13643832129)](https://github.com/anuraghazra/github-readme-stats)
