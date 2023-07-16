@@ -24,9 +24,6 @@
 
 ![](https://github-readme-stats-ab13643832129.vercel.app/api?username=ab13643832129&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats-ab13643832129.vercel.app/api?username=ab13643832129&show_icons=true&theme=tokyonight)
-
-https://github-readme-stats-ab13643832129.vercel.app/
 
 
 <!--            语言分类        -->
