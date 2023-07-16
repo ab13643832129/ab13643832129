@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=ab13643832129&show_icons=true&theme=tokyonight)
-
-
-https://github-readme-stats-ab13643832129.vercel.app/
 ![](https://github-readme-stats-ab13643832129.vercel.app/api?username=ab13643832129&show_icons=true&theme=tokyonight)
 
 
