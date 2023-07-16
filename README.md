@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ab13643832129/ab13643832129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 
@@ -36,7 +35,3 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats-ab13643832129.vercel.app/api/top-langs/?username=ab13643832129&layout=compact)](https://github.com/ab13643832129/github-readme-stats)
 
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ab13643832129)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ab13643832129)](https://github.com/anuraghazra/github-readme-stats)
