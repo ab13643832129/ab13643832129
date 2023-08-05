@@ -40,6 +40,7 @@
 访问量![Visitor Count](https://profile-counter.glitch.me/ab13643832129/count.svg)
 ### Statistics
 
+<!--    
 <img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=ab13643832129&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=ab13643832129&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
 
-<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=ab13643832129&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=ab13643832129&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
+     -->
