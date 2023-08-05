@@ -28,7 +28,7 @@
 [![Top Langs](https://github-readme-stats-ab13643832129.vercel.app/api/top-langs/?username=ab13643832129&layout=compact&theme=tokyonight)](https://github.com/ab13643832129/github-readme-stats)
 
 
-
+![](https://skillicons.dev/icons?i=py,rust,go,ts,k8s,docker,ps,pr,mongodb,redis,cassandra,tauri,actix,cloudflare,postman&theme=light)
 <!--           30天的github activity graph           -->
 
 
@@ -39,9 +39,5 @@
 
 访问量![Visitor Count](https://profile-counter.glitch.me/ab13643832129/count.svg)
 
-<a href="https://github.com/ab13643832129/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ab13643832129&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ab13643832129/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ab13643832129&repo=convoychat" />
-</a>
+<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=ab13643832129&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" />
+<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=ab13643832129&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
