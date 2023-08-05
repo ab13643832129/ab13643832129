@@ -40,8 +40,8 @@
 访问量![Visitor Count](https://profile-counter.glitch.me/ab13643832129/count.svg)
 
 <a href="https://github.com/ab13643832129/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ab13643832129.vercel.app/api/pin/?username=ab13643832129&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ab13643832129&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/ab13643832129/convoychat">
-  <img align="center" src="https://github-readme-stats-ab13643832129.vercel.app/api/pin/?username=ab13643832129&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ab13643832129&repo=convoychat" />
 </a>
