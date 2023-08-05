@@ -28,16 +28,20 @@
 [![Top Langs](https://github-readme-stats-ab13643832129.vercel.app/api/top-langs/?username=ab13643832129&layout=compact&theme=tokyonight)](https://github.com/ab13643832129/github-readme-stats)
 
 
-![](https://skillicons.dev/icons?i=py,rust,go,ts,k8s,docker,ps,pr,mongodb,redis,cassandra,tauri,actix,cloudflare,postman&theme=light)
+<!--            语言图标       -->
+![](https://skillicons.dev/icons?i=py,java,docker,ps,pr,mongodb,redis,cloudflare,postman&theme=light)
+
+
+
 <!--           30天的github activity graph           -->
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ab13643832129&theme=react-dark)](https://github.com/ab13643832129/github-readme-activity-graph)
 
 
 <!--          访问量数字          -->
-
 访问量![Visitor Count](https://profile-counter.glitch.me/ab13643832129/count.svg)
+
+
+
 
 
 <!--    
